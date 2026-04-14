@@ -1,6 +1,6 @@
 # bookStore-API
 
-Funcionalidades Clave
+# Funcionalidades Clave
 
 Catálogo Dinámico: Gestión completa (CRUD) de libros, incluyendo metadatos como ISBN, autores y editoriales.
 
